@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-### :woman_technologist: About Me:
+### 👩‍💻 About Me:
 I am a frontend developer living in Amsterdam :bike: :tulip:
 #####
  :ringed_planet:  I made a big career move from small businesses to the world of tech and computer science. 
@@ -15,11 +15,11 @@ I am a frontend developer living in Amsterdam :bike: :tulip:
 
  :black_cat:  Beyond coding, I love snowboarding, biking through the amazing Netherlands, travelling and spending quality time with my family.
 
- :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgalitsyna/)  
+✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgalitsyna/)  
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
